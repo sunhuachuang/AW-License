@@ -1,5 +1,7 @@
 # Anti-War LICENSE
 
+Even if it's obviously not going to get enforced, we still hope: **The maintenance of peace, oppose war.**
+
 ```
 Anti-War LICENSE
 
